@@ -12,3 +12,8 @@ Open up an issue before you open a pull request, as if you make a pull request I
 * Retain the style and soul of the default interface. This means there wont be any modifications to the default scheme (For the most part).
 
 * Minimise file size. No files will be included that aren't needed. Bloated files, such as *ui/mainmenu.res* should be split apart to make the code more readable. This also improves customisation as it allows the user to easily disable/enable features that they don't/do want using the *#base* system.
+
+## Todo list
+* Remove top bar?
+* Clean up spectator UI
+* Target ID
