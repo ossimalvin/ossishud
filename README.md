@@ -16,4 +16,5 @@ Open up an issue before you open a pull request, as if you make a pull request I
 ## Todo list
 * Remove top bar?
 * Clean up spectator UI
+* Taunt menu
 * Target ID
